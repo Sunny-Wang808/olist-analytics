@@ -39,6 +39,7 @@ __pycache__/
 # MySQL 配置
 config/database.ini
 
+
 # 结果文件（可选）
 results/*.txt
 results/*.csv
